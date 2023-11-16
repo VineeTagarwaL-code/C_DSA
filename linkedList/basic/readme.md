@@ -3,5 +3,5 @@
 contain all inserting function that is possible 
 ## Deletion.c
 contain all deleting function that is possible 
-## Basic.c
+## LinkedList.c
 Create a linkedlist , traverse and search for a node
